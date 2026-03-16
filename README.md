@@ -34,11 +34,11 @@ A **HealthByte** é uma startup digital voltada para o desenvolvimento de soluç
 
 | Nome                      | Perfil                                                           |
 |---------------------------|------------------------------------------------------------------|
-| Me. Aimar Martins Lopes   | https://www.linkedin.com/in/aimarlopes/                          |
-| Dr. Eduardo Savino        | https://www.linkedin.com/in/eduardo-savino/                      |
-| Me. Ronaldo Araujo Pinto  | https://www.linkedin.com/in/ronaldo-araujo-pinto-3542811a/       |
-| Dra. Lucy Mari Tabuti     | https://www.linkedin.com/in/lucymari/details/education/          |
-| Dr. Rafael Diogo Rossetti | https://www.linkedin.com/in/rafael-diogo-rossetti/               |
+| Me. Aimar Martins Lopes   | [LinkedIn](https://www.linkedin.com/in/aimarlopes/)                          |
+| Dr. Eduardo Savino        | [LinkedIn](https://www.linkedin.com/in/eduardo-savino/)                      |
+| Me. Ronaldo Araujo Pinto  | [LinkedIn](https://www.linkedin.com/in/ronaldo-araujo-pinto-3542811a/)       |
+| Dra. Lucy Mari Tabuti     | [LinkedIn](https://www.linkedin.com/in/lucymari/details/education/)          |
+| Dr. Rafael Diogo Rossetti | [LinkedIn](https://www.linkedin.com/in/rafael-diogo-rossetti/)               |
 
 <br>
 
