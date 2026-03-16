@@ -1,81 +1,194 @@
-# FECAP - Fundação Escola de Comércio Álvares Penteado
+# Fundação Escola de Comércio Álvares Penteado
+
+<br>
 
 <p align="center">
-<a href= "https://www.fecap.br/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZPrRa89Kma0ZZogxm0pi-tCn_TLKeHGVxywp-LXAFGR3B1DPouAJYHgKZGV0XTEf4AE&usqp=CAU" alt="FECAP - Fundação de Comércio Álvares Penteado" border="0"></a>
+  <a href="https://www.fecap.br/">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZPrRa89Kma0ZZogxm0pi-tCn_TLKeHGVxywp-LXAFGR3B1DPouAJYHgKZGV0XTEf4AE&usqp=CAU" alt="FECAP" />
+  </a>
 </p>
 
-# HealthByte
+<br>
 
-## HealthByte Team
+# 🧠 HealthByte (Brasil) S.A
 
-## Integrantes: <a href="https://www.linkedin.com/in/victorbarq/">Goku Sayajin</a>, <a href="https://www.linkedin.com/in/victorbarq/">Saitama One</a>, <a href="https://www.linkedin.com/in/victorbarq/">Ikki de Fenix</a>, <a href="https://www.linkedin.com/in/victorbarq/">Yusuke Urameshi</a>, <a href="https://www.linkedin.com/in/victorbarq/">Roronoa Zoro</a>
+## 📱 Startup Digital – Educação, Alimentação e Tecnologia
 
-## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor Von Doom</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Saitama</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Strange</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Yoda</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Gero</a>
+Projeto desenvolvido no **Projeto Interdisciplinar (PI)** do curso de **Análise e Desenvolvimento de Sistemas – 4º semestre (2025)**.
 
----
+A **HealthByte** é uma startup digital voltada para o desenvolvimento de soluções tecnológicas que auxiliem instituições educacionais, pais e alunos a **monitorar e melhorar hábitos alimentares no ambiente escolar**, utilizando **dados, inteligência artificial e aplicativos mobile**.
 
-## Descrição
+# 👨‍💻 Equipe `HealthByte`
 
-<p align="center">
-<img src="https://pix4free.org/assets/library/2021-01-20/originals/game.jpg" alt="HealthByte App" border="0">
-  Image by <a href="http://www.nyphotographic.com/">Nick Youngson</a> <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> <a href="http://pix4free.org/">Pix4free</a>
-</p>
+| Nome     | Perfil                                                                                    |
+|----------|-------------------------------------------------------------------------------------------|
+| Gustavo  | [LinkedIn](https://www.linkedin.com/in/gustavo-roberto-0aa488288/)                        |
+| Eriane   | [LinkedIn](https://www.linkedin.com/in/eriane-dos-santos-oliveira-cfp-pqo-paap-53116292/) |
+| Bianca   | [LinkedIn](.)                           |
+| Erik     | [LinkedIn](https://www.linkedin.com/in/erik-raimundo-5811762b8/)                          |
+| Kauã     | [LinkedIn](.)                             |
 
-O **HealthByte (Brasil) S.A** é uma proposta de startup digital desenvolvida como parte do Projeto Interdisciplinar do curso de **Análise e Desenvolvimento de Sistemas da FECAP**. O projeto consiste no desenvolvimento de uma aplicação mobile voltada para o ambiente escolar, com foco no **monitoramento e melhoria da alimentação de estudantes** por meio do uso de **tecnologia, análise de dados e inteligência artificial**.
+<br>
 
-A plataforma funciona de forma semelhante a aplicativos de delivery, permitindo que alunos realizem pedidos na cantina escolar diretamente pelo aplicativo. Os pedidos ficam registrados no sistema, permitindo que **pais e responsáveis acompanhem o histórico alimentar dos alunos**. A partir desses dados, algoritmos de **Inteligência Artificial e Machine Learning** analisam os padrões de consumo e fornecem **indicadores nutricionais e recomendações de alimentação saudável**, promovendo maior transparência e incentivando hábitos alimentares mais equilibrados dentro do ambiente escolar.
+# 👨‍🏫 Orientação
 
----
+| Nome                      | Perfil                                                           |
+|---------------------------|------------------------------------------------------------------|
+| Me. Aimar Martins Lopes   | https://www.linkedin.com/in/aimarlopes/                          |
+| Dr. Eduardo Savino        | https://www.linkedin.com/in/eduardo-savino/                      |
+| Me. Ronaldo Araujo Pinto  | https://www.linkedin.com/in/ronaldo-araujo-pinto-3542811a/       |
+| Dra. Lucy Mari Tabuti     | https://www.linkedin.com/in/lucymari/details/education/          |
+| Dr. Rafael Diogo Rossetti | https://www.linkedin.com/in/rafael-diogo-rossetti/               |
 
-## 🛠 Estrutura de pastas
+<br>
 
--Raiz  
-|  
-|-->documentos  
-&emsp;|-->antigos  
-&emsp;|Documentacao_HealthByte.docx  
+# 📝 Descrição do Projeto
 
-|-->executáveis  
-&emsp;|-->android  
-&emsp;|-->web  
-&emsp;|-->windows  
+A **HealthByte (Brasil) S.A** é uma proposta de startup digital que desenvolve uma **plataforma mobile para cantinas escolares**, permitindo que alunos realizem pedidos diretamente pelo aplicativo.
 
-|-->imagens  
+Além da funcionalidade de pedidos, a plataforma registra e analisa os hábitos alimentares dos estudantes, permitindo que pais e instituições educacionais acompanhem padrões de consumo e recebam recomendações nutricionais.
 
-|-->src  
-&emsp;|-->backend  
-&emsp;|-->frontend  
-&emsp;|-->ia-ml  
+O sistema utiliza **análise de dados e algoritmos de inteligência artificial** para identificar padrões alimentares e sugerir alternativas mais saudáveis disponíveis no cardápio escolar.
 
-|readme.md  
+<br>
 
-A pasta raiz contém o arquivo principal do projeto:
+# 🎯 Objetivos
 
-**README.md**: Arquivo que serve como guia e explicação geral sobre o projeto, sua estrutura e funcionamento.
+- Digitalizar pedidos em cantinas escolares  
+- Reduzir filas e melhorar o atendimento  
+- Monitorar hábitos alimentares dos alunos  
+- Fornecer relatórios nutricionais para pais e responsáveis  
+- Utilizar inteligência artificial para recomendações alimentares  
+- Incentivar escolhas alimentares mais saudáveis no ambiente escolar  
 
-Há também quatro pastas principais:
+<br>
 
-**documentos**: Contém toda a documentação do projeto, incluindo relatórios do Projeto Interdisciplinar, diagramas e materiais de apoio.
+# ⚙️ Funcionalidades
 
-**executáveis**: Contém versões executáveis do sistema, incluindo builds para diferentes plataformas.
+## 👨‍🎓 Alunos
 
-**imagens**: Armazena imagens utilizadas na documentação e no sistema, como protótipos de telas, diagramas e ilustrações.
+- Cadastro e login no aplicativo  
+- Visualização do cardápio da cantina  
+- Realização de pedidos  
+- Pagamento digital  
+- Histórico de pedidos  
 
-**src**: Pasta que contém todo o código fonte do projeto.
+## 👨‍👩‍👧 Pais ou responsáveis
 
-- **backend**: API e serviços responsáveis pela lógica de negócio e processamento de dados.
-- **frontend**: Interface do aplicativo utilizada pelos usuários.
-- **ia-ml**: Scripts e modelos utilizados para análise de dados alimentares e geração de recomendações.
+- Acompanhamento da alimentação dos filhos  
+- Visualização do histórico alimentar  
+- Relatórios nutricionais  
+- Recomendações alimentares geradas por IA  
 
----
+## 🏫 Cantinas escolares
 
-## 🛠 Instalação
+- Gestão do cardápio  
+- Controle de pedidos  
+- Confirmação de retirada  
+- Relatórios de vendas  
 
-### Android
+<br>
 
-Faça o download do arquivo **HealthByte.apk** no seu dispositivo Android.
+# 🧠 Inteligência Artificial e Análise de Dados
 
-Instale o aplicativo e siga as instruções apresentadas na tela.
+A plataforma utiliza **IA e Machine Learning** para analisar os pedidos realizados pelos alunos.
 
-```sh
-adb install HealthByte.apk
+O sistema será capaz de:
+
+- Identificar padrões alimentares  
+- Estimar consumo de calorias  
+- Estimar ingestão de açúcar, sódio e gorduras  
+- Classificar hábitos alimentares  
+- Gerar recomendações nutricionais  
+
+Exemplo de recomendação:
+
+- Substituir refrigerante por suco natural  
+- Sugerir refeições com melhor equilíbrio nutricional  
+
+<br>
+
+# 🛠️ Tecnologias Utilizadas
+
+- Front-End: XML (Android)
+- Back-End: Java
+- Banco de Dados: Supabase
+
+
+Tecnologias conceituais aplicadas no projeto:
+
+- Ciência de Dados  
+- Inteligência Artificial  
+- Machine Learning  
+- Cibersegurança  
+- Arquitetura de Software  
+
+<br>
+
+# 🚀 Possíveis Extensões
+
+- Notificações push  
+- Sistema de fidelidade  
+- Dashboard para escolas  
+- Análise nutricional avançada  
+- Gamificação de hábitos saudáveis  
+
+<br>
+
+# 📁 Estrutura do Projeto
+
+```
+Projeto1/
+├── code/
+│ ├── client/
+│ │ └── src/
+│ │ ├── index.html
+│ │ ├── package.json
+│ │ ├── README.md
+│ │ ├── styleguide.css
+│ │ └── vite.config.js
+│ │
+│ ├── server/
+│ │ ├── middleware/
+│ │ ├── public/
+│ │ ├── db.js
+│ │ ├── routes.js
+│ │ └── server.js
+│
+├── documents/
+│ ├── Entrega 1/
+│ └── Entrega 2/
+│
+├── banco_instituto.sql
+└── README.md
+```
+
+<br>
+
+# ⚙️ Como Executar o Projeto
+
+## Pré-requisitos
+
+- Dispositivo Android  
+- Conexão com internet  
+
+## Passos
+
+1. Baixar o aplicativo  
+2. Instalar no dispositivo  
+3. Criar uma conta no sistema  
+4. Acessar o cardápio e realizar pedidos  
+
+<br>
+
+# 📚 Referências
+
+- Materiais das disciplinas do curso  
+- Documentação oficial das tecnologias utilizadas  
+- Artigos sobre alimentação escolar e tecnologia educacional  
+
+<br>
+
+# 🙏 Agradecimento
+
+Agradecemos aos professores orientadores e à instituição pelo suporte no desenvolvimento deste projeto acadêmico.
