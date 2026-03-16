@@ -26,7 +26,7 @@ A **HealthByte** é uma startup digital voltada para o desenvolvimento de soluç
 | Eriane   | [LinkedIn](https://www.linkedin.com/in/eriane-dos-santos-oliveira-cfp-pqo-paap-53116292/) |
 | Bianca   | [LinkedIn](.)                           |
 | Erik     | [LinkedIn](https://www.linkedin.com/in/erik-raimundo-5811762b8/)                          |
-| Kauã     | [LinkedIn](.)                             |
+| Kauã     | [LinkedIn](https://linkedin.com/in/kauã-aguiar)                             |
 
 <br>
 
