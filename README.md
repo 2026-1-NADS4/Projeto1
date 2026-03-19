@@ -191,4 +191,4 @@ Projeto1/
 
 # 🙏 Agradecimento
 
-Agradecemos aos professores orientadores e à instituição pelo suporte no desenvolvimento deste projeto acadêmico.
+Agradecemos aos professores orientadores e à instituição pelo suporte no desenvolvimento deste projeto acadêmico. 
