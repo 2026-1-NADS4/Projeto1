@@ -10,17 +10,17 @@
 
 <br>
 
-# 🧠 HealthByte (Brasil) S.A
+# 🚀 Global Talent Bridge Ltda
 
-## 📱 Startup Digital – Educação, Alimentação e Tecnologia
+## 📱 Startup Digital – Recrutamento Inteligente e Talent as a Service (TaaS)
 
-Projeto desenvolvido no **Projeto Interdisciplinar (PI)** do curso de **Análise e Desenvolvimento de Sistemas – 4º semestre (2025)**.
+Projeto desenvolvido no **Projeto Interdisciplinar (PI)** do curso de **Análise e Desenvolvimento de Sistemas – 4º semestre (2026)**.
 
-A **HealthByte** é uma startup digital voltada para o desenvolvimento de soluções tecnológicas que auxiliem instituições educacionais, pais e alunos a **monitorar e melhorar hábitos alimentares no ambiente escolar**, utilizando **dados, inteligência artificial e aplicativos mobile**.
+A **Global Talent Bridge** é uma startup digital cujo diferencial competitivo ("core") é a Tecnologia da Informação. A plataforma utiliza **Inteligência Artificial, Processamento de Linguagem Natural (NLP) e Big Data** para otimizar a empregabilidade, conectando profissionais a vagas ideais e intermediando talentos locais com o mercado de trabalho internacional.
 
-# 👨‍💻 Equipe `HealthByte`
+# 👨‍💻 Equipe `DataBeginners`
 
-| Nome     | Perfil                                                                                    |
+| Nome     | Perfil                                                                                     |
 |----------|-------------------------------------------------------------------------------------------|
 | Gustavo  | [LinkedIn](https://www.linkedin.com/in/gustavo-roberto-0aa488288/)                        |
 | Eriane   | [LinkedIn](https://www.linkedin.com/in/eriane-dos-santos-oliveira-cfp-pqo-paap-53116292/) |
@@ -32,134 +32,102 @@ A **HealthByte** é uma startup digital voltada para o desenvolvimento de soluç
 
 # 👨‍🏫 Orientação
 
-| Nome                      | Perfil                                                           |
+| Nome                       | Perfil                                                           |
 |---------------------------|------------------------------------------------------------------|
-| Me. Aimar Martins Lopes   | [LinkedIn](https://www.linkedin.com/in/aimarlopes/)                          |
-| Dr. Eduardo Savino        | [LinkedIn](https://www.linkedin.com/in/eduardo-savino/)                      |
-| Me. Ronaldo Araujo Pinto  | [LinkedIn](https://www.linkedin.com/in/ronaldo-araujo-pinto-3542811a/)       |
-| Dra. Lucy Mari Tabuti     | [LinkedIn](https://www.linkedin.com/in/lucymari/details/education/)          |
-| Dr. Rafael Diogo Rossetti | [LinkedIn](https://www.linkedin.com/in/rafael-diogo-rossetti/)               |
+| Me. Aimar Martins Lopes   | [LinkedIn](https://www.linkedin.com/in/aimarlopes/)              |
+| Dr. Eduardo Savino        | [LinkedIn](https://www.linkedin.com/in/eduardo-savino/)          |
+| Me. Ronaldo Araujo Pinto  | [LinkedIn](https://www.linkedin.com/in/ronaldo-araujo-pinto-3542811a/) |
+| Dra. Lucy Mari Tabuti     | [LinkedIn](https://www.linkedin.com/in/lucymari/details/education/) |
+| Dr. Rafael Diogo Rossetti | [LinkedIn](https://www.linkedin.com/in/rafael-diogo-rossetti/)   |
 
 <br>
 
 # 📝 Descrição do Projeto
 
-A **HealthByte (Brasil) S.A** é uma proposta de startup digital que desenvolve uma **plataforma mobile para cantinas escolares**, permitindo que alunos realizem pedidos diretamente pelo aplicativo.
+A **Global Talent Bridge Ltda** desenvolve uma **plataforma SaaS (Software as a Service)** que atua como uma ponte tecnológica entre talentos e oportunidades globais.
 
-Além da funcionalidade de pedidos, a plataforma registra e analisa os hábitos alimentares dos estudantes, permitindo que pais e instituições educacionais acompanhem padrões de consumo e recebam recomendações nutricionais.
+A solução foca em três pilares principais: análise de compatibilidade imediata para candidatos (Match Score), busca inteligente de perfis para empresas (Smart Hunting) e a exportação de serviços profissionais via **Talent as a Service (TaaS)** para o exterior.
 
-O sistema utiliza **análise de dados e algoritmos de inteligência artificial** para identificar padrões alimentares e sugerir alternativas mais saudáveis disponíveis no cardápio escolar.
+O sistema utiliza **algoritmos de Inteligência Artificial** para realizar o cruzamento semântico entre currículos e requisitos de vagas, eliminando barreiras geográficas e técnicas no processo de contratação.
 
 <br>
 
 # 🎯 Objetivos
 
-- Digitalizar pedidos em cantinas escolares  
-- Reduzir filas e melhorar o atendimento  
-- Monitorar hábitos alimentares dos alunos  
-- Fornecer relatórios nutricionais para pais e responsáveis  
-- Utilizar inteligência artificial para recomendações alimentares  
-- Incentivar escolhas alimentares mais saudáveis no ambiente escolar  
+- Fornecer um *Score de Compatibilidade* preciso entre candidatos e vagas em tempo real.
+- Reduzir o *Time-to-Hire* de empresas parceiras através de filtragem inteligente.
+- Facilitar a inserção de profissionais brasileiros em vagas remotas internacionais (TaaS).
+- Gerar insights sobre o mercado de trabalho através de **Dashboards de Big Data**.
+- Garantir a proteção de dados sensíveis conforme o framework de cibersegurança **NIST**.
 
 <br>
 
 # ⚙️ Funcionalidades
 
-## 👨‍🎓 Alunos
+## 👨‍💻 Profissionais (Candidatos)
+- Upload e parsing automático de currículos (extração de competências).
+- Ferramenta de "Match Score" baseada em descrições de vagas coladas pelo usuário.
+- Recomendações personalizadas para melhoria de perfil técnico.
+- Acesso facilitado a contratos de trabalho internacionais.
 
-- Cadastro e login no aplicativo  
-- Visualização do cardápio da cantina  
-- Realização de pedidos  
-- Pagamento digital  
-- Histórico de pedidos  
+## 🏢 Empresas (Recrutadores)
+- Filtro inteligente de candidatos com base em aderência técnica real.
+- Visualização de métricas de recrutamento em tempo real.
+- Gestão centralizada de processos seletivos para vagas locais e remotas.
 
-## 👨‍👩‍👧 Pais ou responsáveis
-
-- Acompanhamento da alimentação dos filhos  
-- Visualização do histórico alimentar  
-- Relatórios nutricionais  
-- Recomendações alimentares geradas por IA  
-
-## 🏫 Cantinas escolares
-
-- Gestão do cardápio  
-- Controle de pedidos  
-- Confirmação de retirada  
-- Relatórios de vendas  
+## 🌎 Global TaaS
+- Intermediação de contratação para o mercado externo com validação de competências.
+- Estrutura de confiança para empresas estrangeiras contratarem talentos brasileiros.
 
 <br>
 
 # 🧠 Inteligência Artificial e Análise de Dados
 
-A plataforma utiliza **IA e Machine Learning** para analisar os pedidos realizados pelos alunos.
+A plataforma utiliza tecnologia de ponta para transformar currículos em ativos de dados:
 
-O sistema será capaz de:
-
-- Identificar padrões alimentares  
-- Estimar consumo de calorias  
-- Estimar ingestão de açúcar, sódio e gorduras  
-- Classificar hábitos alimentares  
-- Gerar recomendações nutricionais  
-
-Exemplo de recomendação:
-
-- Substituir refrigerante por suco natural  
-- Sugerir refeições com melhor equilíbrio nutricional  
+- **NLP (Natural Language Processing):** Para entender semanticamente as experiências dos candidatos e os requisitos das vagas.
+- **Machine Learning:** Para classificar níveis de senioridade e prever a aderência do candidato à cultura da vaga.
+- **Big Data:** Dashboards que demonstram o impacto econômico da plataforma na geração de renda e redução do tempo de recolocação.
 
 <br>
 
 # 🛠️ Tecnologias Utilizadas
 
-- Front-End: XML (Android)
-- Back-End: Java
-- Banco de Dados: Supabase
+- **Front-End:** React.js / Vite / Tailwind CSS
+- **Back-End:** Node.js / Express / Python (Core de IA)
+- **Banco de Dados:** PostgreSQL / Supabase
+- **Análise de Dados:** Google Colab e Bibliotecas de ML (Scikit-learn/Pandas)
 
-
-Tecnologias conceituais aplicadas no projeto:
-
-- Ciência de Dados  
-- Inteligência Artificial  
-- Machine Learning  
-- Cibersegurança  
-- Arquitetura de Software  
+Conceitos aplicados (requisitos PI 4ADS):
+- **Cibersegurança:** Framework NIST e Tabela de Criticidade GUT.
+- **Gestão de Projetos:** WBS (EAP), Cronograma e Rede PERT-CPM.
+- **Arquitetura:** Design Patterns e Escalabilidade em nuvem.
 
 <br>
 
 # 🚀 Possíveis Extensões
 
-- Notificações push  
-- Sistema de fidelidade  
-- Dashboard para escolas  
-- Análise nutricional avançada  
-- Gamificação de hábitos saudáveis  
+- Módulo de simulação de entrevistas técnicas via IA generativa.
+- Integração com APIs de pagamento internacional para profissionais TaaS.
+- Dashboard avançado para análise de tendências de competências mundiais.
+- Sistema de certificação de competências via badges digitais.
 
 <br>
 
 # 📁 Estrutura do Projeto
 
 ```
-Projeto1/
+projeto1/
 ├── code/
-│ ├── client/
-│ │ └── src/
-│ │ ├── index.html
-│ │ ├── package.json
-│ │ ├── README.md
-│ │ ├── styleguide.css
-│ │ └── vite.config.js
-│ │
-│ ├── server/
-│ │ ├── middleware/
-│ │ ├── public/
-│ │ ├── db.js
-│ │ ├── routes.js
-│ │ └── server.js
+│   ├── web-app/          # Interface React para candidatos e empresas
+│   ├── ai-service/       # Motor de Match Score e NLP em Python
+│   └── api-gateway/      # Servidor principal e regras de negócio
 │
 ├── documents/
-│ ├── Entrega 1/
-│ └── Entrega 2/
+│   ├── Entrega 1/        # TAP, WBS, Cronograma, NIST e Análise Exploratória
+│   └── Entrega 2/        # PERT-CPM, Dashboard Big Data, ML e Matriz GUT
 │
-├── banco_instituto.sql
+├── database/             # Modelagem relacional e scripts SQL
 └── README.md
 ```
 
@@ -168,27 +136,23 @@ Projeto1/
 # ⚙️ Como Executar o Projeto
 
 ## Pré-requisitos
-
-- Dispositivo Android  
-- Conexão com internet  
+- Computador
+- Internet
 
 ## Passos
-
-1. Baixar o aplicativo  
-2. Instalar no dispositivo  
-3. Criar uma conta no sistema  
-4. Acessar o cardápio e realizar pedidos  
+1. Acessar o site clicando [aqui](.)
 
 <br>
 
 # 📚 Referências
 
-- Materiais das disciplinas do curso  
-- Documentação oficial das tecnologias utilizadas  
-- Artigos sobre alimentação escolar e tecnologia educacional  
+- Documentação do Projeto Interdisciplinar (FECAP 4ADS - 2026).
+- Framework NIST para Segurança Cibernética.
+- Metodologias Ágeis e Gestão de Projetos (PMBOK 7ª ed.).
+- Documentação de bibliotecas de NLP (Spacy/NLTK).
 
 <br>
 
 # 🙏 Agradecimento
 
-Agradecemos aos professores orientadores e à instituição pelo suporte no desenvolvimento deste projeto acadêmico.
+Agradecemos aos professores orientadores e à **FECAP** pela oportunidade de desenvolver uma solução tecnológica com potencial de impacto global e social.
