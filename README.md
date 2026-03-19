@@ -117,17 +117,26 @@ Conceitos aplicados (requisitos PI 4ADS):
 # 📁 Estrutura do Projeto
 
 ```
-projeto1/
-├── code/
-│   ├── web-app/          # Interface React para candidatos e empresas
-│   ├── ai-service/       # Motor de Match Score e NLP em Python
-│   └── api-gateway/      # Servidor principal e regras de negócio
-│
-├── documents/
-│   ├── Entrega 1/        # TAP, WBS, Cronograma, NIST e Análise Exploratória
-│   └── Entrega 2/        # PERT-CPM, Dashboard Big Data, ML e Matriz GUT
-│
-├── database/             # Modelagem relacional e scripts SQL
+Projeto1/
+├── Documentos/
+│   ├── Entrega 1/
+│   │   ├── Cibersegurança e Defesa Cibernética/
+│   │   ├── Ciência de Dados e Big Data/
+│   │   ├── Empreendedorismo e Transformação Digital/
+│   │   ├── Gestão de Projetos de Software/
+│   │   └── Inteligência Artificial e Machine Learning/
+│   ├── Entrega 2/
+│   │   ├── Cibersegurança e Defesa Cibernética/
+│   │   ├── Ciência de Dados e Big Data/
+│   │   ├── Empreendedorismo e Transformação Digital/
+│   │   ├── Gestão de Projetos de Software/
+│   │   └── Inteligência Artificial e Machine Learning/
+│   └── Banner/
+│       └── banner_final_aprovacao.pdf 
+├── src/
+│   ├── backend/ 
+│   └── frontend/ 
+├── .gitignore
 └── README.md
 ```
 
