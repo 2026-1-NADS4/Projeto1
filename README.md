@@ -171,4 +171,4 @@ Projeto1/
 
 # 🙏 Agradecimento
 
-Agradecemos aos professores orientadores e à **FECAP** pela oportunidade de desenvolver uma solução tecnológica com potencial de impacto global e social.
+Agradecemos aos professores orientadores e à **FECAP** pela oportunidade de desenvolver uma solução tecnológica com potencial de impacto global e social. 
