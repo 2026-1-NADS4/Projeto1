@@ -98,6 +98,7 @@ A plataforma utiliza tecnologia de ponta para transformar currículos em ativos 
 - **Banco de Dados:** PostgreSQL / Supabase
 - **Análise de Dados:** Google Colab e Bibliotecas de ML (Scikit-learn/Pandas)
 
+```mermaid
 pie title Tecnologias do Projeto
     "React" : 45
     "Node.js" : 30
