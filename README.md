@@ -99,6 +99,15 @@ A plataforma utiliza tecnologia de ponta para transformar currículos em ativos 
 - **Análise de Dados:** Google Colab e Bibliotecas de ML (Scikit-learn/Pandas)
 
 ```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {
+    'pie1': '#00c8ff',
+    'pie2': '#00ff00',
+    'pie3': '#ffffff',
+    'pie4': '#ff0000',
+    'pieLegendText': '#FFFFFF',
+    'pieTitleTextSize': '30px',
+    'pieTitleColor': '#FFFFFF'
+}}}%%
 pie title Tecnologias do Projeto
     "React" : 45
     "Node.js" : 30
