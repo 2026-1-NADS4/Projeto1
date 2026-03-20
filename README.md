@@ -98,6 +98,12 @@ A plataforma utiliza tecnologia de ponta para transformar currículos em ativos 
 - **Banco de Dados:** PostgreSQL / Supabase
 - **Análise de Dados:** Google Colab e Bibliotecas de ML (Scikit-learn/Pandas)
 
+pie title Tecnologias do Projeto
+    "React" : 45
+    "Node.js" : 30
+    "PostgreSQL" : 15
+    "Outros" : 10
+
 Conceitos aplicados (requisitos PI 4ADS):
 - **Cibersegurança:** Framework NIST e Tabela de Criticidade GUT.
 - **Gestão de Projetos:** WBS (EAP), Cronograma e Rede PERT-CPM.
