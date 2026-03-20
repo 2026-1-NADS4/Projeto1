@@ -104,6 +104,7 @@ pie title Tecnologias do Projeto
     "Node.js" : 30
     "PostgreSQL" : 15
     "Outros" : 10
+```
 
 Conceitos aplicados (requisitos PI 4ADS):
 - **Cibersegurança:** Framework NIST e Tabela de Criticidade GUT.
