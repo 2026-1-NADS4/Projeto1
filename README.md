@@ -98,11 +98,15 @@ A plataforma utiliza tecnologia de ponta para transformar currículos em ativos 
 - **Banco de Dados:** PostgreSQL / Supabase
 - **Análise de Dados:** Google Colab e Bibliotecas de ML (Scikit-learn/Pandas)
 
+<br>
+
 ```mermaid
-%%{init: {'theme': 'base', 'themeVariables': {
+%%{init: { 'theme': 'base', 'themeVariables': {
+    'primaryTextColor': '#FFFFFF',
+    'titleColor': '#FFFFFF',
     'pie1': '#00c8ff',
     'pie2': '#00ff00',
-    'pie3': '#ffffff',
+    'pie3': '#9900ff',
     'pie4': '#ff0000',
     'pieLegendText': '#FFFFFF',
     'pieTitleTextSize': '30px',
@@ -181,4 +185,4 @@ Projeto1/
 
 # 🙏 Agradecimento
 
-Agradecemos aos professores orientadores e à **FECAP** pela oportunidade de desenvolver uma solução tecnológica com potencial de impacto global e social. 
+Agradecemos aos professores orientadores e à **FECAP** pela oportunidade de desenvolver uma solução tecnológica com potencial de impacto global e social.
