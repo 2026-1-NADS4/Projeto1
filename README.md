@@ -145,11 +145,10 @@ Projeto1/
 # ⚙️ Como Executar o Projeto
 
 ## Pré-requisitos
-- Computador
-- Internet
+- Dispositivo com navegador e acesso à internet (Celular/Computador/Tablet etc.)
 
 ## Passos
-1. Acessar o site clicando [aqui](.)
+1. Acessar o site clicando [aqui](https://pi-ia-ml.vercel.app/)
 
 <br>
 
