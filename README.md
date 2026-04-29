@@ -95,7 +95,7 @@ A plataforma utiliza tecnologia de ponta para transformar currículos em ativos 
 
 - **Front-End:** React.js / Vite / Tailwind CSS
 - **Back-End:** Node.js / Express / Python (Core de IA)
-- **Banco de Dados:** PostgreSQL / Supabase
+- **Banco de Dados:** Firebase
 - **Análise de Dados:** Google Colab e Bibliotecas de ML (Scikit-learn/Pandas)
 
 <br>
@@ -115,7 +115,6 @@ A plataforma utiliza tecnologia de ponta para transformar currículos em ativos 
 pie title Tecnologias do Projeto
     "React" : 45
     "Node.js" : 30
-    "PostgreSQL" : 15
     "Outros" : 10
 ```
 
