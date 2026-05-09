@@ -1,0 +1,26 @@
+from sklearn.feature_extraction.text import TfidfVectorizer
+
+class ResumeVectorizer:
+    """
+    Encaixa e transforma texto em vetores TF-IDF.
+    """
+    def __init__(self):
+        self.vectorizer = TfidfVectorizer()
+
+    def fit_transform(self, documents):
+        """
+        Encaixa o vetorizador e transforma os documentos.
+        """
+        return self.vectorizer.fit_transform(documents)
+
+    def transform(self, documents):
+        """
+        Transforma documentos usando um vetorizador prÃ©-encaixado.
+        """
+        return self.vectorizer.transform(documents)
+
+if __name__ == "__main__":
+    pass
+
+# vetorizaÃ§Ã£o completa, seguiremos ao arquivo matcher.py para o cÃ¡lculo de similaridade
+# Próximo passo: Refinamento de UX, Integração de APIs e Testes de Produção
